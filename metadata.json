@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nebula Hands: AI Particle System",
+  "description": "Control a 3D particle universe with your hands. Features real-time hand tracking, interactive physics, and AI-generated particle shapes using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
